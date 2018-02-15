@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/TA logic citcute/verilog_class/class3/N_bit_adder/test1_isim_beh.exe" -prj "E:/TA logic citcute/verilog_class/class3/N_bit_adder/test1_beh.prj" "work.test1" "work.glbl" 
